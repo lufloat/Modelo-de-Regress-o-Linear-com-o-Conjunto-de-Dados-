@@ -27,14 +27,4 @@ E prever a variável alvo:
 - Pandas
 - Seaborn & Matplotlib (visualizações)
 - Scikit-learn (modelagem e avaliação)
-- Jupyter Notebook (opcional)
 
----
-
-## ⚙️ Como Executar
-
-1. Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/regressao-linear-california.git
-cd regressao-linear-california
